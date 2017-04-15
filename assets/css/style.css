@@ -88,6 +88,10 @@ p {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
+.portfolio-pics {
+	height: 200px;
+	padding: 20px 50px;
+}
 .contact-info {
 	clear: both;
 	width: 646px;
