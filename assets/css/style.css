@@ -1,0 +1,151 @@
+* {
+
+}
+body {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background-image: url("../images/ep_naturalwhite.png");
+	background-color: #cccccc;
+/*	height: 100%;*/
+	width: 960px;
+	/*margin-left: 100px;*/
+}
+nav {
+	color: lightgrey;
+	background: white;
+	text-align: right;
+}
+nav a {
+	padding: 25px 20px;
+	display: inline-block;
+	margin: 0;
+	float: right;
+	background: white;
+}
+#topnav {
+	margin-right: 50px;
+}
+#wrapperContent {
+	background: white;
+	width: 100%;
+}
+.clearfix:after {
+   content: " "; /* Older browser do not support empty content */
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
+header {
+	
+}
+h1 {
+	background: #4aaaa5;
+	font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+	font-size: 24px;
+	color: white;
+	padding: 20.4px;
+	float: left;
+	margin: 0;
+	margin-left: 20px;
+}
+h2 {
+	padding-left: 20px;
+}
+hr {
+	width: 94%
+}
+p {
+	color: black;
+
+}
+.small-icon {
+	height: 50px;
+	padding: 10px;
+}
+.about-me {
+	clear: both;
+	width: 646px;
+	border: 2px solid lightgrey;
+	float: left;
+	color: #4aaaa5;
+	background: white;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.about-me img {
+	float: left;
+	padding: 20px;
+}
+.portfolio-links {
+	clear: both;
+	width: 646px;
+	border: 2px solid lightgrey;
+	float: left;
+	color: #4aaaa5;
+	background: white;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.portfolio-pics {
+	height: 200px;
+	padding: 20px 50px;
+}
+.contact-info {
+	clear: both;
+	width: 646px;
+	border: 2px solid lightgrey;
+	float: left;
+	color: #4aaaa5;
+	background: white;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+form {
+	padding: 10px 20px;
+	color: black;
+}
+input {
+	margin: 10px 0;
+	color: lightgrey;
+}
+form button {
+	background: #4aaaa5;
+	color: white;
+}
+textarea {
+	margin: 10px 0;
+}
+.connect-links {
+	width: 266px;
+	border: 2px solid lightgrey;
+	float: left;
+	margin-left: 5px;
+	color: #4aaaa5;
+	background: white;
+	margin-top: 20px;
+	margin-left: 20px;
+	padding: 0;
+}
+.connect-links a {
+	display: inline-block;
+	margin: 0;
+	overflow: hidden;
+}
+section {
+	margin-left: 20px;
+}
+footer {
+	clear: both;
+	background: #666666;
+	text-align: center;
+	color: lightgrey;
+	padding: 20px;
+	margin-top: 20px;
+	border-top-style: solid;
+	border-top-color: #4aaaa5;
+	border-top-width: 5px;
+	font-size: 80%;
+}
